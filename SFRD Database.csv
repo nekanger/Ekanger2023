@@ -1,4 +1,4 @@
-Hyperlink ,Redshift ,,,SFRD,Statistical Error,,Systematic Error,,AGN ,,Indicator,Extinction,Explanation,Std. Calibration Factors,,Cosmology Assumptions,,,Notes
+Author ,Redshift ,,,SFRD,Statistical Error,,Systematic Error,,AGN ,,Indicator,Extinction,Explanation,Other Calibration Factors,,Cosmology Assumptions,,,Notes
 ,z,min,max,(Msun*yr^−1*Mpc^−3),(+) ẟ,(-) ẟ,(+) ẟ,(-) ẟ,(+) ẟ,(-) ẟ,,,,Metallicity,IMF,H0,Ωm,ΩΛ ,
 Takahashi et al. 2007,1.2,1.17,1.20,0.32,0.060,0.040,,,Y,,O[II],Y,Hopkins 2004 + Cardelli et al. 1989,N,Sal,70,0.3,0.7,
 Morioka et al. 2008,0.24,,,0.035,0.024,0.014,,,Y,,H_alpha,Y,"Schlegel et al. 1998, AH_alpha = 1",Y,Sal,70,0.3,0.7,
